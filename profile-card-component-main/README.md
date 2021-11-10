@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ![](images/screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-main-challenge-using-html-css-lnC1xHpHo](https://www.frontendmentor.io/solutions/profile-card-component-main-challenge-using-html-css-lnC1xHpHo)
+- Live Site URL: [https://taro2211.github.io/frontendmentor/profile-card-component-main/index.html](https://taro2211.github.io/frontendmentor/profile-card-component-main/index.html)
 
 ## My process
 
