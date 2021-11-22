@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+:root {
+    --red: hsl(0, 78%, 62%);
+    --cyan: hsl(180, 62%, 55%);
+    --orange: hsl(34, 97%, 64%);
+    --blue: hsl(212, 86%, 64%);
+    --very-dark-blue: hsl(234, 12%, 34%);
+    --graysish-blue: hsl(229, 6%, 66%);
+    --very-light-gray: hsl(0, 0%, 98%);
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    padding-top: 20px;
+    font-size: 15px;
+    font-family: Poppins, sans-serif;
+    background-color: var(--very-light-gray);
+}
+/*styling header*/
+header {
+    text-align: center;
+}
+h1{
+    color: var(--very-dark-blue);
+    font-weight: 200;
+}
+h1 span {
+    font-weight: 600;
+}
+h2 {
+    width: 540px;
+    margin: auto;
+    color: var(--graysish-blue);
+    font-weight: 400;
+    font-size: 1em;
+}
+
+/*styling content cards*/
+main {
+    width: 90%;
+    margin: 40px auto;
+    display: flex;
+}
+main > * {
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+section {
+    border-radius: 10px;
+    box-shadow: 0 5px 15px var(--graysish-blue);
+    margin: 15px;
+    padding: 5px 30px 30px;
+    color: var(--graysish-blue);
+
+}
+h3 {
+    color: var(--very-dark-blue)
+}
+img {
+    float: right;
+    margin-top: 30px;
+}
+/*card color strips*/
+.supervisor {
+    border-top: 8px solid var(--cyan);
+}
+.team-builder {
+    border-top: 8px solid var(--red);
+}
+.karma {
+    border-top: 8px solid var(--orange);
+}
+.calculator {
+    border-top: 8px solid var(--blue);
+}
+
+/*styling footer*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a:hover { color: hsl(228, 85%, 44%);}
+
+/*media query*/
+@media screen and (max-width: 1100px) {
+    main {
+        width: 100%;
+        max-width: 450px;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 550px) {
+    body {
+        padding: 20px 10px 10px;
+    }
+    h1, h2 {
+        padding: 0;
+    }
+    h2 {
+        width: 100%;
+    }
+    section {
+        margin: 10px;
+    }
+}
