@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -20,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Link](https://your-solution-url.com)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-flexbox-Eo1fpXaJX)
+- Live Site URL: [Link](https://taro2211.github.io/frontendmentor/qr-code-component-main/index.html)
 
 ## My process
 
