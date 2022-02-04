@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL](https://your-solution-url.com)
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-main-using-html-css-7IIeEAbAW)
+- Live Site URL: [URL](https://taro2211.github.io/frontendmentor/nft-preview-card-component-main/index.html)
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Taro2211)
+- Frontend Mentor - [@Taro2211](https://www.frontendmentor.io/profile/Taro2211)
